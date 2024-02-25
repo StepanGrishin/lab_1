@@ -1,0 +1,5 @@
+let age:String = "22"
+let university: String = "СПБГЭТУ ЛЭТИ"
+let language: String = "Swift"
+let summary:String = "Привет, меня зовут Степан, мне " + age + ", я учусь в " + university + " и изучаю " + language
+print(summary)
